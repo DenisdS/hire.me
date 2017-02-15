@@ -1,0 +1,27 @@
+.nav{float: left; width: 93%; margin: 58px 0 0 4%;}
+
+.nav ul{width: 83%; margin-left: 0;}
+
+.nav ul{float: left; width: 50%; margin-left: 15%;}
+
+.nav ul li{float: left; padding-left: 22px;}
+
+.nav ul li a{font-weight: bold; background: rgba(42,8,43,.9); padding: 10px 7px; color: #fff; border-radius: 7px;}
+
+.nav ul li a:hover, .nav ul li a:focus{border-bottom: 2px #fff solid;}
+
+@media screen and (max-width: 1023px) {
+	.nav ul{width: 83%; margin-left: 0;}
+	
+	.nav ul li{margin-left: 13px; padding-left: 0;}
+
+	.contSecound .nav ul{float: right; width: 100%; margin-right: 0;}
+	
+	.contSecound .nav ul li:first-child{margin-top: 5px;}
+	
+	.contSecound .nav ul li{margin: 28px 0 0 14px; }
+}
+
+@media screen and (min-width: 480px) and (max-width: 1023px){
+	
+}
