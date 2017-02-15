@@ -8,6 +8,7 @@ Para a realição de testes de integração foi utilizado o Framework de Teste d
 ## FRONT-END
 O front foi feito em React visando facilitar a integração de views para o consumo da API. Em seu código foi utilizado
 a sintaxe JSX.
+Todas as dependências foram realizadas via Webpack para manter um maior controle e integridade dos arquivos.
 A interface está desenvolvida de modo responsivo, para assim garantir um bom acesso para qualquer usuário.
 
 ## Passos para executar a APLICAÇÃO: 
